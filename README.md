@@ -92,5 +92,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="https://owlstake.com" />
+  <img src="svg/quotes.svg" width="846" height="150" alt="https://owlstake.com" />
 </a>
