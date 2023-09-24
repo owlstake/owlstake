@@ -1,0 +1,28 @@
+[
+  {
+    "id": "owlstakenft",
+    "external": "true",
+    "title": "Owlstake NFT Marketplace",
+    "logo": "https://raw.githubusercontent.com/owlstake/rollapp-registry/main/ngocdoan_4228225-1/logos/ngocdoan_4228225-1.svg",
+    "shortDescription": "NFT Marketplace",
+    "categories": "nft",
+    "author": "Owlstake",
+    "url": "https://market.owlstake.com",
+    "description": "The largest NFT Marketplace in the world",
+    "site": "https://market.owlstake.com",
+    "twitter": "https://twitter.com/owlstake"
+  },
+  {
+    "id": "owlstakerollapp",
+    "external": "true",
+    "title": "Owlstake RollApp",
+    "logo": "https://raw.githubusercontent.com/owlstake/rollapp-registry/main/ngocdoan_4228225-1/logos/ngocdoan_4228225-1.svg",
+    "shortDescription": "Owlstake RollApp",
+    "categories": "defi",
+    "author": "Owlstake",
+    "url": "https://portal.dymension.xyz/rollapp/ngocdoan_4228225-1",
+    "description": "Owlstake RollApp",
+    "site": "https://portal.dymension.xyz/rollapp/ngocdoan_4228225-1",
+    "twitter": "https://twitter.com/owlstake"
+  },
+]
